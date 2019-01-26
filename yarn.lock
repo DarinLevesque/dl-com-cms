@@ -9254,9 +9254,9 @@ react-material-ui-form-validator@2.0.1:
   dependencies:
     react-form-validator-core "0.4.4"
 
-react-obfuscate@2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/react-obfuscate/-/react-obfuscate-2.1.4.tgz#ae647207c1a8241b83b6a284a82870260a2298b6"
+react-obfuscate@2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/react-obfuscate/-/react-obfuscate-2.2.3.tgz#64f72e5536886aedf0f05ca624155f2ae1a116e2"
 
 react-popper@0.10.4:
   version "0.10.4"
