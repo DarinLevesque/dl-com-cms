@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 
 import AlgoliaIcon from "!svg-react-loader!../../images/svg-icons/algolia.svg?name=AlgoliaIcon";
-import ReactIcon from "!svg-react-loader!../../images/svg-icons/react.svg?name=ReactIcon";
+import ReactIcon from "!svg-react-loader!../../images/svg-icons/react-rect.svg?name=ReactIcon";
 import GraphqlIcon from "!svg-react-loader!../../images/svg-icons/graphql.svg?name=GraphqlIcon";
 import JssIcon from "!svg-react-loader!../../images/svg-icons/jss.svg?name=JssIcon";
 import MaterialUiIcon from "!svg-react-loader!../../images/svg-icons/material-ui.svg?name=MaterialUiIcon";
@@ -66,7 +66,7 @@ const StackIcons = props => {
 
   return (
     <div className={classes.stack}>
-      <h5 className={classes.header}>built with:</h5>
+      <h5 className={classes.header}>Built with:</h5>
       <div className={classes.box}>
         {items.map(item => {
           const Icon = item.comp;
