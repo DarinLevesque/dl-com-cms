@@ -2,7 +2,7 @@
 title: author
 ---
 
-**Darin Levesque** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts: :ho:
+**Darin Levesque** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMTk4ODczXX0=
+eyJoaXN0b3J5IjpbMTcwOTMyOTgxMF19
 -->
