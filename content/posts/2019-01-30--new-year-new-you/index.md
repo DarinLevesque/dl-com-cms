@@ -10,8 +10,9 @@ You hear it nearly every year from all sorts of people.
 
 My year was one of my hardest yet, but it was all my fault. I made the decisions which caused my year to be tough. I chose to go back to school full time, raise 5 children & keep them educated and involved in as many activities as possible; all while working full time, being an accidental landlord of tenants who never pay rent on time. That's just the beginning.
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTY1OTE0NiwxNDU3MjE5NTkwLC0xMz
-Q1MTUxODE0XX0=
+eyJoaXN0b3J5IjpbLTIwODE2Njk4NCwxNDY5NjU5MTQ2LDE0NT
+cyMTk1OTAsLTEzNDUxNTE4MTRdfQ==
 -->
