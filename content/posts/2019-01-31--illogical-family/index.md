@@ -9,10 +9,10 @@ When I was young, I felt very fortunate. Growing up in a rural New England seaco
 ![Black Sheep Cover](sheep-cover.jpg)
 
 Now, I'm in my mid-thirties, and I haven't spoken to my parents in over a year. I ask myself nearly daily, "How did we get here?"
-How did my relationship with my parents become so broken? Why did 
+How did my relationship with my parents become so broken? 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDg2Mzk3OCwtMTI4MDYwNjQzNywtNz
-UwMjEzMjkzLDEzMjAxNTQzODQsLTEzOTgyMzIxXX0=
+eyJoaXN0b3J5IjpbOTc5ODcwNzIzLC0xMjgwNjA2NDM3LC03NT
+AyMTMyOTMsMTMyMDE1NDM4NCwtMTM5ODIzMjFdfQ==
 -->
