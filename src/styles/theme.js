@@ -1,6 +1,6 @@
 import { createMuiTheme } from "@material-ui/core/styles";
 import Color from "color";
-import colors from "./new-colors";
+import colors from "./colors";
 
 const theme = createMuiTheme({
   base: {
