@@ -1,6 +1,7 @@
 ---
 title: My ___logical Family
 subTitle: A Black Sheep Story
+category: Family
 cover: sheep-square.png
 ---
 #### Background
