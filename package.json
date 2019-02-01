@@ -72,7 +72,7 @@
     "react-helmet": "5.2.0",
     "react-instantsearch": "5.2.2",
     "react-lazyload": "2.5.0",
-    "react-loadable-visibility": "2.5.0",
+    "react-loadable-visibility": "2.5.1",
     "react-material-ui-form-validator": "2.0.3",
     "react-obfuscate": "2.2.3",
     "react-popper": "0.10.4",
