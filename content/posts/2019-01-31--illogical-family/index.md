@@ -13,11 +13,11 @@ Now, I'm in my mid-thirties, haven't spoken to my parents in over a year and ask
 
 How did my relationship with my parents become so broken? 
 
-It started back when I began my relationship with Kelli.
+It started near the beginning of my relationship with Kelli. I was separated from my ex, going through a ridiculous divorce and was getting pulled in many different directions in order to please the most amount of people. Despit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Nzg2OTIzNywzODkxNjA1MzEsMzQ2MT
-MxODY3LDMyMjI3MzYxOSw5Nzk4NzA3MjMsLTEyODA2MDY0Mzcs
-LTc1MDIxMzI5MywxMzIwMTU0Mzg0LC0xMzk4MjMyMV19
+eyJoaXN0b3J5IjpbMTc5NDQ2NzUwLDM4OTE2MDUzMSwzNDYxMz
+E4NjcsMzIyMjczNjE5LDk3OTg3MDcyMywtMTI4MDYwNjQzNywt
+NzUwMjEzMjkzLDEzMjAxNTQzODQsLTEzOTgyMzIxXX0=
 -->
