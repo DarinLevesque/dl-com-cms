@@ -13,11 +13,11 @@ Now, I'm in my mid-thirties, haven't spoken to my parents in over a year and ask
 
 How did my relationship with my parents become so broken? 
 
-It started 
+It started back when I began my relationship with Kelli.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDUxMjA5NywzODkxNjA1MzEsMzQ2MT
+eyJoaXN0b3J5IjpbMjA2Nzg2OTIzNywzODkxNjA1MzEsMzQ2MT
 MxODY3LDMyMjI3MzYxOSw5Nzk4NzA3MjMsLTEyODA2MDY0Mzcs
 LTc1MDIxMzI5MywxMzIwMTU0Mzg0LC0xMzk4MjMyMV19
 -->
