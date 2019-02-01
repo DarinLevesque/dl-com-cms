@@ -13,11 +13,11 @@ Now, I'm in my mid-thirties, haven't spoken to my parents in over a year and ask
 
 How did my relationship with my parents become so broken? 
 
-To be honest there a
+It started 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMjkzOTc1LDM4OTE2MDUzMSwzNDYxMz
-E4NjcsMzIyMjczNjE5LDk3OTg3MDcyMywtMTI4MDYwNjQzNywt
-NzUwMjEzMjkzLDEzMjAxNTQzODQsLTEzOTgyMzIxXX0=
+eyJoaXN0b3J5IjpbMjAzMDUxMjA5NywzODkxNjA1MzEsMzQ2MT
+MxODY3LDMyMjI3MzYxOSw5Nzk4NzA3MjMsLTEyODA2MDY0Mzcs
+LTc1MDIxMzI5MywxMzIwMTU0Mzg0LC0xMzk4MjMyMV19
 -->
