@@ -9147,14 +9147,12 @@ react-event-listener@^0.6.0:
     prop-types "^15.6.0"
     warning "^4.0.1"
 
-react-facebook@5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/react-facebook/-/react-facebook-5.0.3.tgz#0d47596a4418cda205e8118ea194786c1272258f"
+react-facebook@6.0.15:
+  version "6.0.15"
+  resolved "https://registry.yarnpkg.com/react-facebook/-/react-facebook-6.0.15.tgz#24914e13ab4f49c8ab73d638535ec97bd78daff5"
   dependencies:
     babel-runtime "^6.26.0"
     can-use-dom "^0.1.0"
-    debug "^3.1.0"
-    prop-types "^15.6.1"
     react-spinner-children "^1.0.8"
 
 react-form-validator-core@0.5.1:
