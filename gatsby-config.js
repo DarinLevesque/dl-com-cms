@@ -53,16 +53,6 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
-        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
-        queries,
-        chunkSize: 10000 // default: 1000
-      }
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/posts/`,
@@ -81,6 +71,16 @@ module.exports = {
       options: {
         name: `parts`,
         path: `${__dirname}/content/parts/`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
+        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
+        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
+        queries,
+        chunkSize: 10000 // default: 1000
       }
     },
     {
