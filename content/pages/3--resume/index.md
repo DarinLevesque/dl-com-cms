@@ -9,7 +9,6 @@ title: Resume
 > [darin@darinlevesque.com](mailto:darin@darinlevesque.com)
 > (603) 326-8667
 
-------
 
 ### Technical
 
