@@ -3,7 +3,6 @@ title: footnote
 ---
 
 * this is a demo site of the [gatsby-starter-personal-blog](https://github.com/greglobinski/gatsby-starter-personal-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
-* GatsbyJS, ReactJs, CSS in JS - [Front-end web development with Greg](https://dev.greglobinski.com)
-* delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
+* Authored by [Darin Levesque](https://darinlevesque.com) original work by [Greg Lobinski](https://www.greglobinski.com)
+* Delivered by [Netlify](https://www.netlify.com/)
+* Photos from [Pablo](https://pablo.buffer.com)
