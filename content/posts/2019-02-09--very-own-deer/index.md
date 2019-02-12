@@ -10,7 +10,7 @@ When I was about 8 years old, I had a conversation with my neighbors about why t
 
 > I was going to catch a deer.
 
-Remember, I was 8 years old. But I was the kind of 8-year-old who knew how to play hockey, swim like a fish, and even catch fish with my trusty push button fishing rod. ![](E:\Development\dl-com-cms\content\posts\2019-02-09--very-own-deer\kid-fish.png)
+Remember, I was 8 years old. But I was the kind of 8-year-old who knew how to play hockey, swim like a fish, and even catch fish with my trusty push button fishing rod. ![](kid-fish.png)
 
 So one fall day after school, I was determined to thwart my neighbors plan to kill a deer, by making one my pet. I went down to the basement, where my father’s workbench was as organized as a town just hit by a tornado. I found some fishing line, the largest fish hook I could find, and came up with an ingenious plan.
 
