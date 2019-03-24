@@ -1,0 +1,40 @@
+import { graphql } from "gatsby"
+import { Component } from 'react'
+import { MDXprovider } from '@mdx-js/tag'
+import createComponents from '@rebass/markdown'
+import Main from "../components/Main";
+import Article from "../components/Main/Article";
+import PageHeader from "../components/Page/PageHeader";
+import Content from "../components/Main/Content";
+
+# My Awesome Page
+
+Here's a paragraph, followed by a paragraph with data!
+
+export default class Test extends React.Component {
+  render() {
+    return (
+      <MDXprovider components={createComponents()}>
+        <Main>
+          <Article>
+            <PageHeader title="MDX" />
+            <Content>
+              <p>{props.data.site.siteMetadata.description}</p>
+            </Content>
+          </Article>
+        </Main>
+      </MDXprovider>
+    )
+  }
+}
+
+
+export const query = graphql`
+  query MDXQuery {
+    site {
+      siteMetadata {
+      description
+      }
+    }
+  }
+`;

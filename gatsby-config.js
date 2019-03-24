@@ -83,6 +83,7 @@ module.exports = {
         path: `${__dirname}/content/parts/`
       }
     },
+    `gatsby-mdx`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
