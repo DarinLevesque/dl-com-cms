@@ -83,7 +83,6 @@ module.exports = {
         path: `${__dirname}/content/parts/`
       }
     },
-    `gatsby-mdx`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -160,6 +159,7 @@ module.exports = {
         ]
       }
     },
+    `gatsby-mdx`,
     `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
