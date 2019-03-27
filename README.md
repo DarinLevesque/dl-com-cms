@@ -1,6 +1,8 @@
 # PersonalBlog
 
 A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae81c29f-9bec-41ea-935c-34357efbe957/deploy-status)](https://app.netlify.com/sites/dl-com-cms/deploys)
+
 
 [![GitHub license][mit-badge]][mit]
 [![GitHub tag][tag-badge]][tag]

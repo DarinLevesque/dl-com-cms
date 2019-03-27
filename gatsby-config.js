@@ -159,6 +159,7 @@ module.exports = {
         ]
       }
     },
+    `gatsby-mdx`,
     `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
