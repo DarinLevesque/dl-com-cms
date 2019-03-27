@@ -32,7 +32,12 @@ const styles = theme => ({
   },
   link: {
     display: "inline-block",
-    padding: "8px"
+    padding: "8px",
+    "&:hover": {
+      "& svg": {
+        transform: "translateY(-2px)"
+      }
+    }
   },
   svg: {
     width: "22px",
