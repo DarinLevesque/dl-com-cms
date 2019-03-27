@@ -7,6 +7,7 @@ import config from "../../../content/meta/config";
 import GithubIcon from "!svg-react-loader!../../images/svg-icons/github.svg?name=GithubIcon";
 import FacebookIcon from "!svg-react-loader!../../images/svg-icons/facebook.svg?name=FacebookIcon";
 import TwitterIcon from "!svg-react-loader!../../images/svg-icons/twitter.svg?name=TwitterIcon";
+import LinkedInIcon from "!svg-react-loader!../../images/svg-icons/linkedin.svg?name=LinkedInIcon";
 
 const styles = theme => ({
   social: {
@@ -19,7 +20,8 @@ const styles = theme => ({
     padding: "5px",
     "&:hover": {
       "& svg": {
-        fill: theme.info.colors.socialIconsHover
+        fill: theme.info.colors.socialIconsHover,
+        transform: "translateY(-2px)"
       }
     }
   },
@@ -37,7 +39,8 @@ const Socialcons = props => {
   const icons = {
     twitter: TwitterIcon,
     facebook: FacebookIcon,
-    github: GithubIcon
+    github: GithubIcon,
+    linkedin: LinkedInIcon
   };
 
   return (
