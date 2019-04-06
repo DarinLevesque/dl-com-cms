@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a test resource manager for Naval Air Systems Command. I do enterprise level analytics. Nice to meet you!
+I am a Test Resource mManager for Naval Air Systems Command. I like challenges. Know of any?
