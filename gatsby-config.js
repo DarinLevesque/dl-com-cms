@@ -62,25 +62,25 @@ module.exports = {
         chunkSize: 10000 // default: 1000
       }
     },
-    {
-    resolve: `gatsby-source-pocket`,
-      options: {
-        consumerKey: process.env.POCKET_CONSUMER_KEY,
-        accessToken: process.env.POCKET_ACCESS_TOKEN,
-        weeksOfHistory: 52,
-        apiMaxRecordsToReturn: 200,
-        getCurrentWeekOnly: `n`,
-        stateFilterString: "all",
-        tagFilter: false,
-        tagFilterString: "entrepreneur",
-        favouriteFilter: false,
-        favouriteFilterValue: 0,
-        searchFilter: false,
-        searchFilterString: "These 21 things",
-        domainFilter: false,
-        domainFilterString: "entrepreneur"
-      }
-    },
+    // {
+    // resolve: `gatsby-source-pocket`,
+    //   options: {
+    //     consumerKey: process.env.POCKET_CONSUMER_KEY,
+    //     accessToken: process.env.POCKET_ACCESS_TOKEN,
+    //     weeksOfHistory: 52,
+    //     apiMaxRecordsToReturn: 200,
+    //     getCurrentWeekOnly: `n`,
+    //     stateFilterString: "all",
+    //     tagFilter: false,
+    //     tagFilterString: "entrepreneur",
+    //     favouriteFilter: false,
+    //     favouriteFilterValue: 0,
+    //     searchFilter: false,
+    //     searchFilterString: "These 21 things",
+    //     domainFilter: false,
+    //     domainFilterString: "entrepreneur"
+    //   }
+    // },
     // {
     //   resolve: `gatsby-source-spotify`,
     //   options: {
